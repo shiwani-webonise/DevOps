@@ -1,0 +1,3 @@
+Cron job command:
+30 14 * * * /home/webonise/Documents/backup.sh
+(This command creates a sql dump everyday at 2:30pm)
